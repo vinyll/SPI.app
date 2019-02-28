@@ -18,6 +18,8 @@ It also injects ads and listen to events.
 
 This is copyrighted by searchpage.com. Some "Julien" has authored this partially or totally.
 
+More information can be found on the [Malwarebytes blog](https://blog.malwarebytes.com/threat-analysis/2018/10/mac-malware-intercepts-encrypted-web-traffic-for-ad-injection/).
+
 
 ## Check if it installed on your computer
 
@@ -35,3 +37,7 @@ If you've also been a victim of this malware, follow these instructions to unins
 
 Do it in this order as removing SPI.app without first deleting your $HOME/Library/SPI
 would reinstall it automatically…
+
+If you don't know where to type these line and are not familiar with command lines,
+the [Malwarebytes](https://www.malwarebytes.com/) application should also be able
+to help you getting rid of this (even the free basic version).
